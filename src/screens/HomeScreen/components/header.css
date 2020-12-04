@@ -1,0 +1,9 @@
+.home-header {
+  height: 40vh;
+  background-color: red;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 40px;
+  font-weight: 600;
+}

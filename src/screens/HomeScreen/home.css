@@ -1,0 +1,11 @@
+.home-row {
+  display: flex;
+  margin: 40px 0px;
+  justify-content: center;
+}
+
+.home-container {
+  position: relative;
+  top: -10vh;
+  z-index: 2;
+}
